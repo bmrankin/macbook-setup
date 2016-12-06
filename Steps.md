@@ -17,10 +17,12 @@ Download & Install Node - https://nodejs.org
 - Install Dropbox - `brew cask install dropbox`
 - Install Git - `brew cask install git`
 - Install Spectacle - `brew cask install spectacle`
+- Install Alfred - `brew cask install alfred`
+- Install Evernote - `brew cask install evernote`
 
 #### Queued casks
 ```
-brew cask install google-chrome && brew cask install atom && brew cask install visual-studio && brew cask install transmit && brew cask install spotify && brew cask install adobe-creative-cloud && brew cask install dropbox && brew cask install git && brew cask install spectacle
+brew cask install google-chrome && brew cask install atom && brew cask install visual-studio && brew cask install transmit && brew cask install spotify && brew cask install adobe-creative-cloud && brew cask install dropbox && brew cask install git && brew cask install spectacle && brew cask install alfred
 ```
 - Install Python 3.5.#- https://www.python.org/downloads/
 - Update pip - `pip3 install --upgrade pip`
@@ -28,7 +30,10 @@ brew cask install google-chrome && brew cask install atom && brew cask install v
 - Install Github Desktop -  https://desktop.github.com
   - Be sure to install CLI during installation
 - Install Firebase CLI - `npm install firebase-cli`
+- Install MAMP - https://www.mamp.info/en/downloads/
+- Initialize MAMP - `open '/Applications/MAMP PRO/MAMP PRO.app'` then follow prompts
 - 
+
 
 
 ## Clean Downloads Folder
