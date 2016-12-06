@@ -19,6 +19,7 @@ Download & Install Node - https://nodejs.org
 - Install Spectacle - `brew cask install spectacle`
 - Install Alfred - `brew cask install alfred`
 - Install Evernote - `brew cask install evernote`
+- Install Textexpander - `brew cask install textexpander`
 
 #### Queued casks
 ```
