@@ -16,12 +16,21 @@ Download & Install Node - https://nodejs.org
 - Install Creative Cloud`brew cask install adobe-creative-cloud`
 - Install Dropbox - `brew cask install dropbox`
 - Install Git - `brew cask install git`
+- Install Spectacle - `brew cask install spectacle`
+
 #### Queued casks
 ```
-brew cask install google-chrome && brew cask install atom && brew cask install visual-studio && brew cask install transmit && brew cask install spotify && brew cask install adobe-creative-cloud && brew cask install dropbox
+brew cask install google-chrome && brew cask install atom && brew cask install visual-studio && brew cask install transmit && brew cask install spotify && brew cask install adobe-creative-cloud && brew cask install dropbox && brew cask install git && brew cask install spectacle
 ```
 - Install Python 3.5.#- https://www.python.org/downloads/
 - Update pip - `pip3 install --upgrade pip`
 - Install csvkit - `pip install csvkit`
 - Install Github Desktop -  https://desktop.github.com
   - Be sure to install CLI during installation
+- Install Firebase CLI - `npm install firebase-cli`
+- 
+
+
+## Clean Downloads Folder
+In `terminal` go to Downloads folder `cd ~/Downloads/`
+Remove all files and list to check for removal `rm * && ls`
