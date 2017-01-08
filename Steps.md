@@ -23,7 +23,8 @@ Download & Install Node - https://nodejs.org
 
 #### Queued casks
 ```
-brew cask install google-chrome && brew cask install atom && brew cask install visual-studio && brew cask install transmit && brew cask install spotify && brew cask install adobe-creative-cloud && brew cask install dropbox && brew cask install git && brew cask install spectacle && brew cask install alfred
+brew cask install google-chrome && brew cask install atom && brew cask install visual-studio && brew cask install transmit && brew cask install spotify && brew cask install adobe-creative-cloud && brew cask install dropbox && brew cask install git && brew cask install spectacle && brew cask install alfred && brew cask install evernote && brew cask install textexpander
+
 ```
 - Install Python 3.5.#- https://www.python.org/downloads/
 - Update pip - `pip3 install --upgrade pip`
