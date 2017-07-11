@@ -20,6 +20,7 @@ Download & Install Node - https://nodejs.org
 - Install Alfred - `brew cask install alfred`
 - Install Evernote - `brew cask install evernote`
 - Install Textexpander - `brew cask install textexpander`
+- Install mysql - `brew install mysql`
 
 #### Queued casks
 ```
@@ -28,7 +29,7 @@ brew cask install google-chrome && brew cask install atom && brew cask install v
 ```
 - Install Python 3.5.#- https://www.python.org/downloads/
 - Update pip - `pip3 install --upgrade pip`
-- Install csvkit - `pip install csvkit`
+- Install pip packages - `pip3 install -r req.txt`
 - Install Github Desktop -  https://desktop.github.com
   - Be sure to install CLI during installation
 - Install Firebase CLI - `npm install firebase-cli`

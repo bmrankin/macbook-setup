@@ -1,0 +1,7 @@
+agate
+agate-excel
+arrow
+csvkit
+numpy
+pandas
+visidata
